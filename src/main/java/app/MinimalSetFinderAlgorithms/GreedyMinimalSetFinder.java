@@ -1,4 +1,4 @@
-package StrazPozarna.MinimalSetFinderAlgorithms;
+package app.MinimalSetFinderAlgorithms;
 
 
 import java.util.HashSet;

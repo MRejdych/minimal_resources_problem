@@ -1,4 +1,4 @@
-package StrazPozarna.GraphVertex;
+package app.GraphVertex;
 
 
 public interface Vertex {

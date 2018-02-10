@@ -1,6 +1,6 @@
-package StrazPozarna.GraphEdge;
+package app.GraphEdge;
 
-import StrazPozarna.GraphVertex.Vertex;
+import app.GraphVertex.Vertex;
 
 public interface GraphEdge {
     Vertex getFirstVertex();

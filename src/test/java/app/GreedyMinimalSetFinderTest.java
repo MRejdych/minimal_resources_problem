@@ -1,8 +1,8 @@
 package app;
 
-import StrazPozarna.GraphVertex.City;
-import StrazPozarna.MinimalSetFinderAlgorithms.GreedyMinimalSetFinder;
-import StrazPozarna.MinimalSetFinderAlgorithms.MinimalSetFinder;
+import app.GraphVertex.City;
+import app.MinimalSetFinderAlgorithms.GreedyMinimalSetFinder;
+import app.MinimalSetFinderAlgorithms.MinimalSetFinder;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;

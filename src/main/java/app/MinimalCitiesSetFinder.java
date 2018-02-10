@@ -1,12 +1,12 @@
-package StrazPozarna;
+package app;
 
-import StrazPozarna.GraphEdge.Route;
-import StrazPozarna.GraphVertex.City;
-import StrazPozarna.InputOutput.JsonIOHandler;
-import StrazPozarna.MinimalSetFinderAlgorithms.GreedyMinimalSetFinder;
-import StrazPozarna.MinimalSetFinderAlgorithms.MinimalSetFinder;
-import StrazPozarna.ReachableVertexesSetCreator.ReachableVertexesMapCreator;
-import StrazPozarna.ReachableVertexesSetCreator.RecursiveReachableVertexesMapCreator;
+import app.GraphEdge.Route;
+import app.GraphVertex.City;
+import app.InputOutput.JsonIOHandler;
+import app.MinimalSetFinderAlgorithms.GreedyMinimalSetFinder;
+import app.MinimalSetFinderAlgorithms.MinimalSetFinder;
+import app.ReachableVertexesSetCreator.ReachableVertexesMapCreator;
+import app.ReachableVertexesSetCreator.RecursiveReachableVertexesMapCreator;
 
 import java.io.FileNotFoundException;
 import java.time.Duration;

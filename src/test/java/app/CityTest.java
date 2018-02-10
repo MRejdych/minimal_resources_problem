@@ -1,6 +1,6 @@
 package app;
 
-import StrazPozarna.GraphVertex.City;
+import app.GraphVertex.City;
 import org.junit.Assert;
 import org.junit.Test;
 

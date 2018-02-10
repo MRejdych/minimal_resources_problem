@@ -1,7 +1,7 @@
-package StrazPozarna.InputOutput;
+package app.InputOutput;
 
-import StrazPozarna.GraphEdge.Route;
-import StrazPozarna.GraphVertex.City;
+import app.GraphEdge.Route;
+import app.GraphVertex.City;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

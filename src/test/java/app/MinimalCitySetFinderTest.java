@@ -1,10 +1,9 @@
 package app;
 
-import StrazPozarna.GraphEdge.Route;
-import StrazPozarna.GraphVertex.City;
-import StrazPozarna.MinimalCitiesSetFinder;
-import StrazPozarna.MinimalSetFinderAlgorithms.MinimalSetFinder;
-import StrazPozarna.ReachableVertexesSetCreator.ReachableVertexesMapCreator;
+import app.GraphEdge.Route;
+import app.GraphVertex.City;
+import app.MinimalSetFinderAlgorithms.MinimalSetFinder;
+import app.ReachableVertexesSetCreator.ReachableVertexesMapCreator;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;

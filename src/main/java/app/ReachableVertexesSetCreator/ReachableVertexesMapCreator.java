@@ -1,7 +1,7 @@
-package StrazPozarna.ReachableVertexesSetCreator;
+package app.ReachableVertexesSetCreator;
 
-import StrazPozarna.GraphEdge.GraphEdge;
-import StrazPozarna.GraphVertex.Vertex;
+import app.GraphEdge.GraphEdge;
+import app.GraphVertex.Vertex;
 
 import java.util.Map;
 import java.util.Set;

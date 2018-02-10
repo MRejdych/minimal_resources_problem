@@ -1,9 +1,9 @@
 package app;
 
-import StrazPozarna.GraphEdge.Route;
-import StrazPozarna.GraphVertex.City;
-import StrazPozarna.ReachableVertexesSetCreator.ReachableVertexesMapCreator;
-import StrazPozarna.ReachableVertexesSetCreator.RecursiveReachableVertexesMapCreator;
+import app.GraphEdge.Route;
+import app.GraphVertex.City;
+import app.ReachableVertexesSetCreator.ReachableVertexesMapCreator;
+import app.ReachableVertexesSetCreator.RecursiveReachableVertexesMapCreator;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;

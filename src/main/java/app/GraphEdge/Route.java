@@ -1,6 +1,6 @@
-package StrazPozarna.GraphEdge;
+package app.GraphEdge;
 
-import StrazPozarna.GraphVertex.City;
+import app.GraphVertex.City;
 
 
 public class Route implements GraphEdge {
