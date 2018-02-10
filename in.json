@@ -1,0 +1,29 @@
+{
+	"cities": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "P"],
+	 "routes": [
+		{  "cities" : ["A", "B"], "driving_time": 2  },
+		{  "cities" : ["A", "C"], "driving_time": 3  },
+		{  "cities" : ["A", "D"], "driving_time": 4  },
+		{  "cities" : ["A", "E"], "driving_time": 1  },
+		{  "cities" : ["B", "L"], "driving_time": 9  },
+		{  "cities" : ["J", "M"], "driving_time": 6  },
+		{  "cities" : ["F", "N"], "driving_time": 12 },
+		{  "cities" : ["I", "E"], "driving_time": 8  },
+		{  "cities" : ["P", "H"], "driving_time": 4  },
+		{  "cities" : ["K", "H"], "driving_time": 31 },
+		{  "cities" : ["G", "H"], "driving_time": 7  },
+		{  "cities" : ["G", "P"], "driving_time": 2  },
+		{  "cities" : ["G", "D"], "driving_time": 5  },
+		{  "cities" : ["N", "E"], "driving_time": 2  },
+		{  "cities" : ["N", "P"], "driving_time": 1  },
+		{  "cities" : ["N", "J"], "driving_time": 4  },
+		{  "cities" : ["A", "N"], "driving_time": 7  },
+		{  "cities" : ["A", "H"], "driving_time": 6  },
+		{  "cities" : ["C", "I"], "driving_time": 5  },
+		{  "cities" : ["C", "K"], "driving_time": 3  },
+		{  "cities" : ["D", "E"], "driving_time": 4  }
+
+	],
+	"timeout":5,
+	"max_driving_time":5
+}
